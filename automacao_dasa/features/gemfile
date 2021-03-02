@@ -1,0 +1,19 @@
+source "https://rubygems.org"
+
+# Watir
+gem 'capybara'
+
+# Cucumber
+gem 'cucumber'
+
+#Navegadores
+gem 'webdrivers'
+
+#MelhorarCodigo
+gem 'rubocop'
+
+#Selenium
+gem 'selenium-webdriver'
+
+#SitePrism
+gem 'site_prism'
